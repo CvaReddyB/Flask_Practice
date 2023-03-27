@@ -1,0 +1,9 @@
+black
+boto3
+ipykernel
+librosa
+pip-chill
+pylint
+pyparsing
+tqdm
+xlrd
